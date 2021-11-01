@@ -18,7 +18,8 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - [Express](https://expressjs.com/pt-br/)
 - [Socket.io](https://socket.io/)
 - [JSONWebToken](https://www.npmjs.com/package/jsonwebtoken)
-
+- [React](https://pt-br.reactjs.org/)
+- [ReactNative](https://reactnative.dev/)
 
 
 ## 🚀 Como executar
